@@ -1,3 +1,3 @@
-module github.com/hexcraft-biz/xtime
+module github.com/Loopmaas/xtime
 
 go 1.21.1
